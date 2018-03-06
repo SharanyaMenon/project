@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217779024795",
+    "firebase_url": "https://photolearn-3a625.firebaseio.com",
+    "project_id": "photolearn-3a625",
+    "storage_bucket": "photolearn-3a625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217779024795:android:88aba4120b66a1a1",
+        "android_client_info": {
+          "package_name": "com.example.toshimishra.photolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217779024795-3fuh9ev0en9ol7ltiharnngb08u0bgjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshimishra.photolearn",
+            "certificate_hash": "ce898cc7abbd81fccfb6c38117eacfec9529a1ae"
+          }
+        },
+        {
+          "client_id": "217779024795-d1s0i732sba416ut3eu54ct7c0e57613.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfAekn5SmRqh39aRnSGkPYJ9wjFxxt8u0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217779024795-d1s0i732sba416ut3eu54ct7c0e57613.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
