@@ -9,6 +9,7 @@ public class LearningItem extends Item {
     String userID;
     String photoDesc;
     String GPS;
+    String samplenew;
     public LearningItem(String titleID,String photoURL,String photoDesc, String GPS,String userID){
         super(titleID,photoURL);
         this.photoDesc = photoDesc;
